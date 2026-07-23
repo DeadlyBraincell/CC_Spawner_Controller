@@ -1,0 +1,150 @@
+{
+	{
+		name = "minecraft:ghast",
+		drops = {
+			{item = "minecraft:ghast_tear", limit = 100000000},
+			{item = "minecraft:gunpowder", limit = 100000000},
+			{item = "reliquary:catalyzing_gland",  limit = 100000000},
+		},
+		spawnerid = "ghast",
+		active = false,
+	},
+	{
+		name = "minecraft:enderman",
+		drops = {
+			{item = "minecraft:ender_pearl", limit = 100000000},
+			{item = "evilcraft:ender_tear", limit = 100000000},
+			{item = "reliquary:nebulous_heart",  limit = 100000000},
+		},
+		spawnerid = "enderman",
+		active = false,
+	},
+	{
+		name = "irons_spellbooks:ancient_knight",
+		drops = {
+			{item = "irons_spellbooks:cinder_essence", limit = 100000000},
+			{item = "minecraft:netherite_scrap", limit = 100000000},
+		},
+		spawnerid = "ancient_knight",
+		active = false,
+	},
+	{
+		name = "minecraft:sheep",
+		drops = {
+			{item = "minecraft:mutton", limit = 100000000},
+			{item = "minecraft:white_wool", limit = 100000000},
+			{item = "minecraft:light_gray_wool", limit = 100000000},
+			{item = "minecraft:gray_wool", limit = 100000000},
+			{item = "minecraft:black_wool", limit = 100000000},
+			{item = "minecraft:pink_wool", limit = 100000000},
+			{item = "minecraft:brown_wool", limit = 100000000},
+		},
+		spawnerid = "sheep",
+		active = false,
+	},
+	{
+		name = "minecraft:wither_skeleton",
+		drops = {
+			{item = "minecraft:coal", limit = 100000000},
+			{item = "minecraft:bone", limit = 100000000},
+			{item = "minecraft:wither_skeleton_skull", limit = 100000000},
+			{item = "iceandfire:witherbone", limit = 100000000},
+			{item = "reliquary:withered_rib", limit = 100000000},
+		},
+		spawnerid = "wither_skeleton",
+		active = false,
+	},
+	{
+		name = "minecraft:witch",
+		drops = {
+			{item = "minecraft:glowstone_dust", limit = 100000000},
+			{item = "minecraft:redstone", limit = 100000000},
+			{item = "minecraft:spider_eye", limit = 100000000},
+			{item = "minecraft:sugar", limit = 100000000},
+			{item = "reliquary:witch_hat", limit = 100000000},
+		},
+		spawnerid = "witch",
+		active = false,
+	},
+	{
+		name = "ars_nouveau:wilden_guardian",
+		drops = {
+			{item = "ars_nouveau:wilden_spike", limit = 100000000},
+		},
+		spawnerid = "wilden_guardian",
+		active = false,
+	},
+	{
+		name = "ars_nouveau:wilden_hunter",
+		drops = {
+			{item = "ars_nouveau:wilden_horn", limit = 100000000},
+		},
+		spawnerid = "wilden_hunter",
+		active = false,
+	},
+	{
+		name = "ars_nouveau:wilden_stalker",
+		drops = {
+			{item = "ars_nouveau:wilden_wing", limit = 100000000},
+		},
+		spawnerid = "wilden_stalker",
+		active = false,
+	},
+	{
+		name = "minecraft:rabbit",
+		drops = {
+			{item = "minecraft:rabbit", limit = 100000000},
+			{item = "minecraft:rabbit_hide", limit = 100000000},
+			{item = "minecraft:rabbit_foot", limit = 100000000},
+		},
+		spawnerid = "rabbit",
+		active = false,
+	},
+	{
+		name = "minecraft:zombiefied_piglin",
+		drops = {
+			{item = "minecraft:rotten_flesh", limit = 100000000},
+			{item = "minecraft:gold_ingot", limit = 100000000},
+			{item = "reliquary:zombie_heart", limit = 100000000},
+		},
+		spawnerid = "zombiefied_piglin",
+		active = false,
+	},
+	{
+		name = "minecraft:drowned",
+		drops = {
+			{item = "minecraft:rotten_flesh", limit = 100000000},
+			{item = "minecraft:copper_ingot", limit = 100000000},
+			{item = "minecraft:nautilus_shell", limit = 100000000},
+		},
+		spawnerid = "drowned",
+		active = false,
+	},
+	{
+		name = "minecraft:blaze",
+		drops = {
+			{item = "minecraft:blaze_rod", limit = 100000000},
+			{item = "reliquary:molten_core", limit = 100000000},
+		},
+		spawnerid = "blaze",
+		active = false,
+	},
+	{
+		name = "minecraft:magma_cube",
+		drops = {
+			{item = "minecraft:magma_cream", limit = 100000000},
+			{item = "reliquary:molten_core", limit = 100000000},
+		},
+		spawnerid = "magma_cube",
+		active = false,
+	},
+	{
+		name = "minecraft:slime",
+		drops = {
+			{item = "minecraft:slime_ball", limit = 100000000},
+			{item = "reliquary:slime_pearl", limit = 100000000},
+		},
+		spawnerid = "slime",
+		active = false,
+	},
+}
