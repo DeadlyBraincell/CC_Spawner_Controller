@@ -28,7 +28,6 @@ else
 	local file = fs.open("spawnerId", "r")
 	spawnerId = file.readAll()
 	file.close()
-	os.reboot()
 end
 
 while true do
